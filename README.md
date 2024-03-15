@@ -12,3 +12,5 @@ I would like to add a GIF.... let's find one on the web
 
 This should be a non-conflicting modification.
 I'm just adding a couple of lines, after all.
+
+Bye bye and thanks for reading this file 🙂
